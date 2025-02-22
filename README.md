@@ -1,7 +1,7 @@
 # my_favorites
 
-Ferrari
-Racing Bulls
-Red Bull
-Mercedes
-Williams
+- Ferrari
+- Racing Bulls
+- Red Bull
+- Mercedes
+- Williams
