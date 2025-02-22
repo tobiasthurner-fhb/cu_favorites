@@ -2,6 +2,6 @@
 
 - Ferrari
 - Racing Bulls
-- Red Bull
-- Mercedes
-- Williams
+- Red Bull Cola
+- Mercedes Benz
+- Williams Birne
